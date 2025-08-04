@@ -1,0 +1,10 @@
+[package]
+name = "shali"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "3.0.0"
+keyring = "3.6.3"
+reedline = "0.41.0"
+simple_crypt = "0.2.3"
